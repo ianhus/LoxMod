@@ -1,0 +1,8 @@
+3200,L,grid size [m],400,800,1600,3200,6400
+2,perday,timestep [day^-1],2,2,2,2,1
+1.4,a,Manning  n coefficient,13,4.5,2.6,1.4,1.2
+-0.78,b,Manning n exponent,-0.99,-0.83,-0.61,-0.78,-0.92
+1.00E-05,GM,Seepage coefficient [day^-1],3.00E-05,1.00E-05,3.00E-05,1.00E-05,2.00E-05
+0.24,dsmax,Max daily stage change [m],0.16,0.187,0.16,0.24,0.24
+0.153,ddry,Max depth of dryout [m],0.01,0.01,0.153,0.153,0.153
+-1.00E-05,ndsmax,Redistribution parameter [m],-1.34E-03,-1.34E-03,-6.70E-04,-1.00E-05,-1.00E-05
